@@ -46,7 +46,6 @@
   <hr>
   <p align="center">
  <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
-[![Set1awanBoby's GitHubCard](https://githubcard.com/Set1awanBoby.svg?d=b4uuA1ltM0FU)](https://githubcard.com/Set1awanBoby/card?utm_source=github&utm_medium=readme)
 
 <hr>
 
@@ -80,6 +79,8 @@ Here are some [🦜 parrots](https://cultofthepartyparrot.com):
 </div>
 
 <hr>
+
+[![Set1awanBoby's GitHubCard](https://githubcard.com/Set1awanBoby.svg?d=b4uuA1ltM0FU)](https://githubcard.com/Set1awanBoby/card?utm_source=github&utm_medium=readme)
 <!--
 **Set1awanBoby/Set1awanBoby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
