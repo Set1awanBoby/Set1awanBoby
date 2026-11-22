@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTU2dGg5aWd5aHh0OGJxYXk3ZTNxcTV4Z2kybGRyMzUyODVhaHc5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QtZSl6mcqfmvCBI2cb/giphy.gif" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTU2dGg5aWd5aHh0OGJxYXk3ZTNxcTV4Z2kybGRyMzUyODVhaHc5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QtZSl6mcqfmvCBI2cb/giphy.gif" width="200"/>
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Boby Setiawan</h1>
