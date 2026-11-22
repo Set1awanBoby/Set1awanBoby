@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTU2dGg5aWd5aHh0OGJxYXk3ZTNxcTV4Z2kybGRyMzUyODVhaHc5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QtZSl6mcqfmvCBI2cb/giphy.gif" width="200"/>
   <img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
 </p>
 <hr>
