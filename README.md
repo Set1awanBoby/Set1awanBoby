@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![Set1awanBoby's GitHubCard](https://githubcard.com/Set1awanBoby.svg?d=b4uuA1ltM0FU)](https://githubcard.com/Set1awanBoby/card?utm_source=github&utm_medium=readme)
 <!--
 **Set1awanBoby/Set1awanBoby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
+
