@@ -1,5 +1,5 @@
 <p align="center">
-  <iframe src="https://giphy.com/embed/rMvQiXOggpEDxeE4Zv" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+  <img src="https://giphy.com/embed/rMvQiXOggpEDxeE4Zv" />
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Boby Setiawan</h1>
